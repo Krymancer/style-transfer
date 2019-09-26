@@ -38,4 +38,4 @@ Use pillow in this version, since i could not fix all, to works in the newest ve
 Non commercial, only academic use allowed
 
 ### Thanks
-This entire project has based on [this](https://github.com/lengstrom/fast-style-transfer) repository, bascicly i correct some issues, and deprecated code.
+Most part of this repository are from [this](https://github.com/lengstrom/fast-style-transfer) repository, corrected and optimized some of the code, as well as refactoring all deprecated code to use the latest library versions.
